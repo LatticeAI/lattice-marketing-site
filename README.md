@@ -158,4 +158,4 @@ Then add a `CNAME` record to your domain with a Host of `*` that points to `mydo
 
 ## License
 
-MIT
+All rights reserved, Lattice Thinking, Inc.
