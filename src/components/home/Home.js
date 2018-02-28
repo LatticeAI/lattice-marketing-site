@@ -4,7 +4,7 @@ class Home extends Component {
   render() {
     return (
       <div id="home">
-        <div>Main Content</div>
+        <div>Welcome to LatticeAI</div>
       </div>
     );
   }

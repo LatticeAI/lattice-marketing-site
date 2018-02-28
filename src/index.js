@@ -1,3 +1,4 @@
+// all our compiled sass files
 import './styles/css/index.css';
 
 import App from './App';
