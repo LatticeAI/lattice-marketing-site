@@ -1,4 +1,4 @@
-# Flask React Front-end
+# LatticeAI Marketing Website
 
 ## Requirements
 
